@@ -4,6 +4,7 @@
 
 ### Professional Summary
 - **I have 4+ years of experience in Software Engineering as Site Reliability and Devops Engineer. Building secure, high-performing, resilient applications using Well Architected Framework, based on five pillars.**
+
 - **Operational Excellence:** Managing and Provisioning Infrastructure as a Code using Terraform.
 - **Security:** Hardening security in applications using CIS hardened images, boundaries and validations.
 - **Cost Optimization:** Perform Cost optimizations on GCP & AWS environments, reducing total cloud spends up-to 34%.
