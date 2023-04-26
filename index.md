@@ -8,7 +8,7 @@
 - **Lead DevOps Engineer** • Oct 2022 - present
 - **Senior DevOps Engineer** • Mar 2021 - Sept 2022 (1 yr 6 mos)
 
-[Oracle Cloud Infrastructure)](/oci) (Public Cloud • Object Storage)
+[Oracle Cloud Infrastructure](/oci) (Public Cloud • Object Storage)
 - **Senior Site Reliability ENgineer** • Oct 2020 - Feb 2021 (5 mon)
 
 [Nutanix](/nutanix) (Hyperconversed Infrastructure)
