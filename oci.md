@@ -1,4 +1,4 @@
-<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">Dunzo</label></h1>
+<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">Oracle Cloud Infrastructure</label></h1>
 
 <h2><a href="https://www.oracle.com/in/cloud/" target="_blank">About the organization</a></h2>
 
