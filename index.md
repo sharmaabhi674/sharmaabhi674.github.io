@@ -2,6 +2,17 @@
 
 ---
 
+### Professional Summary
+- **I have 4+ years of experience in Software Engineering as Site Reliability and Devops Engineer. Building secure, high-performing, resilient applications using Well Architected Framework, based on five pillars.**
+- **Operational Excellence:** Managing and Provisioning Infrastructure as a Code using Terraform.
+- **Security:** Hardening security in applications using CIS hardened images, boundaries and validations.
+- **Cost Optimization:** Perform Cost optimizations on GCP & AWS environments, reducing total cloud spends up-to 34%.
+- **Reliability:** Container Orchestration using Kubernetes for production workloads ensuring elasticity of services.
+- **Performance Efficiency:** Building serverless architectures using AWS Lambda Functions to remove
+server’s operational burden.
+- **Automations:** Build an open-source solution for End-to-End testing of K8 clusters with reporting of
+over 1000 key checks with a UI dashboard (Team Size: 4)
+
 ### Work Experience
 
 [Dunzo](/dunzo) (Grocery Delivery)
@@ -9,7 +20,7 @@
 - **Senior DevOps Engineer** • Mar 2021 - Sept 2022 (1 yr 6 mos)
 
 [Oracle Cloud Infrastructure](/oci) (Public Cloud • Object Storage)
-- **Senior Site Reliability ENgineer** • Oct 2020 - Feb 2021 (5 mon)
+- **Senior Site Reliability Engineer** • Oct 2020 - Feb 2021 (5 mon)
 
 [Nutanix](/nutanix) (Hyperconversed Infrastructure)
 - **Reliability Engineer** • Mar 2018 - Sept 2020  (2 yr 6 mos)
