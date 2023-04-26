@@ -39,4 +39,6 @@
 - <a href="https://kubernetes.io" target="_blank">CKA</a> • 2021
 - <a href="https://kubernetes.io" target="_blank">CKAD</a> • 2020
 - <a href="https://hashicorp.com" target="_blank">Certified Terraform Associate</a> • 2023
+- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3050cce9-db52-48cd-9eb6-fd87b4e2bc98" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
