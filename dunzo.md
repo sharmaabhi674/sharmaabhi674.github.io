@@ -10,6 +10,12 @@ Dunzo prides itself on providing a spirited, fair, and transparent work environm
 
 ### Lead DevOps Engineer
 
+- Developing, enhancing and maintaining automation solutions to create infrastructure as code in Google cloud aiming to improve and support productivity of the Dunzo application.
+- Lead a team of 5 Devops Engineer to Migrate several microservices to Kubernetes GKE and helped in GKE version upgrades without downtime.
+- Designed and setup EFK logging architecture to enable centralized logging in Production environments using Fluentbit, Elasticsearch and Kibana.
+- Managed and Built a seamless automated staging environment creation pipeline which creates on-demand ephemeral staging environments within 5 minutes.
+- Setup and managed Jenkins and Spinnaker on K8s, designed automated pipelines to deploy code to production environments using helm package manager.
+- Cloud Cost optimisations to bring the cost down from 8 Cr a month to 3 Cr a month.
 ---
 
 For more details see <a href="https://www.dunzo.com/" target="_blank">Dunzo</a>
