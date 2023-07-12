@@ -4,16 +4,20 @@
 
 Nutanix, Inc. is an American cloud computing company that sells software, cloud services (such as desktops as a service, disaster recovery as a service, and cloud monitoring), and software-defined storage.
 
-## Role and Responsibilites
+## Role and Responsibilities
 
 ### Reliability Engineer
 
-- Setting up reliability operations for the product in India, from development stages to rollout.
+- Set up reliability operations for the product in India, from development stages to roll-out that catered to
+~100 Enterprise Customers.
+- Supported product uptime matrix of 99.5% in production.
 - Supporting product launch to General Availability for early US customers.
-- Supporting product uptime of 99.5% in production.
-- Manage and build CI/CD pipelines, Security Hardening, production workload on Kubernetes and Nomad clusters, IaC.
+- Cost optimization efforts resulting in savings of over $20,000/month on AWS spending.
+- Managed and built CI/CD pipelines, security hardening, & production workload on Kubernetes and
+Nomad clusters, IAC.
 - Monitoring and Alerting for the application.
-- Cost optimization efforts resulting in savings over 20,000$ on monthly AWS spends. 
+
+
 
 ---
 
