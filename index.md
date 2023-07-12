@@ -3,16 +3,17 @@
 ---
 
 ### Professional Summary
-- **I have 4+ years of experience in Software Engineering as Site Reliability and Devops Engineer. Building secure, high-performing, resilient applications using Well Architected Framework, based on five pillars.**
+- **6+ YOE as Site Reliability & DevOps Engineer. Built secure, high-performing, resilient applications using
+well Architect-ed Framework, based on the following five pillars.**
 
-- **Operational Excellence:** Managing and Provisioning Infrastructure as a Code using Terraform.
-- **Security:** Hardening security in applications using CIS hardened images, boundaries and validations.
-- **Cost Optimization:** Perform Cost optimizations on GCP & AWS environments, reducing total cloud spends up-to 34%.
-- **Reliability:** Container Orchestration using Kubernetes for production workloads ensuring elasticity of services.
-- **Performance Efficiency:** Building serverless architectures using AWS Lambda Functions to remove
-server’s operational burden.
-- **Automations:** Build an open-source solution for End-to-End testing of K8 clusters with reporting of
-over 1000 key checks with a UI dashboard (Team Size: 4)
+- **Operational Excellence:** Managing and Provisioning Infrastructure as a Code (IAC) using Terraform
+- **Security:** Hardening Infra security using GCP Security Command Centre and Cloudflare for bot
+management, rate limiting, and WAF.
+- **Cost Optimization:** on GCP & AWS environments, reducing total cloud spending up to 68%.
+- **Reliability:** Container Orchestration using Kubernetes for production workloads ensuring elasticity of
+services.
+- **Performance Efficiency:** Building serverless arch using GCP cloud functions to remove the server’s
+operational burden.
 
 ### Work Experience
 
@@ -34,7 +35,7 @@ over 1000 key checks with a UI dashboard (Team Size: 4)
 - Cloud • AWS • GCP • OCI
 - Database • MySQL • PostgreSQL • ElasticSearch • Mongo
 - Load Balancing  • nginx
-- Operating Systems : Red Hat Linux 5/6/7, Centos 5/6/7
+- Operating Systems: Red Hat Linux 5/6/7, Centos 5/6/7
 - Containerization tool • Docker • Kubernetes
 - Programming Language • Python • Boto3 • Bash shell scripting
 - IaC • Terraform • CloudFormation • Spotinst
